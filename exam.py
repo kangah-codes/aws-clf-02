@@ -52,8 +52,20 @@ class ExamParser:
             # Extract correct answer(s)
             answer_match = re.search(
                 r'Correct answer:\s*([A-E](?:, [A-E])*)', q_text)
+
+            # Default to empty list if no answer found
             correct_answers = answer_match.group(
                 1).split(', ') if answer_match else []
+
+            # Validate correct answers exist in options
+            correct_answers = [
+                ans for ans in correct_answers if ans in options.keys()]
+
+            # Skip question if no valid answers
+            if not correct_answers:
+                print(
+                    f"Warning: No valid answers found for question: {question}")
+                continue
 
             parsed_questions.append({
                 'question': question,
@@ -96,12 +108,13 @@ class ExamTaker:
 
             # Handle multiple correct answers
             if len(q['correct_answer']) > 1:
-                print("\n(Note: This question may have MULTIPLE correct answers)")
+                print(
+                    f"\n(Note: This question requires {len(q['correct_answer'])} correct answers)")
                 user_answers = []
                 while len(user_answers) < len(q['correct_answer']):
                     user_input = input(
                         f"Enter answer {len(user_answers) + 1} (A/B/C/D/E): ").upper()
-                    if user_input in ['A', 'B', 'C', 'D', 'E'] and user_input not in user_answers:
+                    if user_input in q['options'].keys() and user_input not in user_answers:
                         user_answers.append(user_input)
                     else:
                         print("Invalid input or duplicate answer. Please try again.")
@@ -118,7 +131,7 @@ class ExamTaker:
             else:
                 while True:
                     user_answer = input("\nYour answer (A/B/C/D/E): ").upper()
-                    if user_answer in ['A', 'B', 'C', 'D', 'E']:
+                    if user_answer in q['options'].keys():
                         break
                     print("Invalid input. Please enter A, B, C, D, or E.")
 
