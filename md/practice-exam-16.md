@@ -154,7 +154,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
     - Tags are key-value pairs that allow you to organize your AWS resources into groups. You can use tags to:
@@ -231,7 +231,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation:
     - With the basic Cloud infrastructure secured and maintained by AWS, the responsibility for what goes into the cloud falls on you. This covers both client and server side encryption and network traffic protection, security of the operating system, network, and firewall configuration, followed by application security and identity and access management.
@@ -375,7 +375,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
     - Your root account should always be protected by Multi-Factor Authentication (MFA).
@@ -669,7 +669,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     Explanation: <https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf>
 
@@ -684,7 +684,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation:
     - Elastic Load Balancing supports the following types of load balancers: Application Load Balancers, Network Load Balancers, and Classic Load Balancers.
@@ -861,7 +861,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://aws.amazon.com/shield/>
 
@@ -877,7 +877,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: ACD
+    Correct Answer: A, CD
 
     Explanation:
     <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>

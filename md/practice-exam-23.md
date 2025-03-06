@@ -25,7 +25,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf>
 
@@ -220,7 +220,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://aws.amazon.com/shield/>
 
@@ -249,7 +249,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     </details>
 
@@ -276,7 +276,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html>
 
@@ -403,7 +403,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
+    Correct Answer: A, E
 
     Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
 
@@ -474,7 +474,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation: <https://wa.aws.amazon.com/wat.pillar.reliability.en.html>
 
@@ -489,7 +489,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation: <https://aws.amazon.com/cloudfront/faqs/>
 
@@ -588,7 +588,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
 

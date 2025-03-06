@@ -41,7 +41,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D, E
 
     Explanation: <https://aws.amazon.com/organizations/>
 
@@ -98,7 +98,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation: <https://aws.amazon.com/directconnect/faqs/>
 
@@ -113,7 +113,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -322,7 +322,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/>
 
@@ -377,7 +377,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html>
 
@@ -392,7 +392,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
 
@@ -563,7 +563,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D, E
 
     </details>
 
@@ -662,7 +662,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     </details>
 
@@ -675,7 +675,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 

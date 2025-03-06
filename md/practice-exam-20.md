@@ -97,7 +97,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
 
@@ -145,7 +145,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: Ac
+    Correct Answer: A, c
 
     </details>
 
@@ -186,7 +186,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://aws.amazon.com/snowball/>
 
@@ -343,7 +343,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation: <https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>
 
@@ -372,7 +372,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
+    Correct Answer: A, E
 
     Explanation:
     - <https://aws.amazon.com/waf/>
@@ -403,7 +403,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     </details>
 
@@ -498,7 +498,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A, B
 
     Explanation: <https://aws.amazon.com/autoscaling/faqs/>
 
@@ -513,7 +513,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation: <https://aws.amazon.com/global-accelerator/faqs/>
 
@@ -587,7 +587,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     </details>
 
